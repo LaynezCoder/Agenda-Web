@@ -78,6 +78,13 @@ header ul li .home {
     transition: all 0.4s ease 0s;
 }
 
+.dropdown-content a img {
+    text-align: center;
+    border-radius: 50%;
+    width: 65px;
+    height: 65px;
+}
+
 .dropdown-content a {
     color: #000000;
     padding: 12px 16px;
