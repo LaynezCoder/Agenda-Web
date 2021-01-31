@@ -133,3 +133,7 @@ form #login:hover {
     background: #767676 ;
     transition: all 0.4s ease 0s;
 }
+
+form h5 {
+    color: #767676;
+}
